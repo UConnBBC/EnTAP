@@ -10,6 +10,8 @@
 Installation
 ==================
 
+EnTAP is optimized to integrate several applications through a simple single command-line execution.  EnTAP leverages software that will increase the speed and decrease the memory required for standard annotation pipelines.  #EnTAP can operate on...#
+
 The installation process of EnTAP is as follows:
 
 #. :ref:`Dependency Check<dep-label>`
